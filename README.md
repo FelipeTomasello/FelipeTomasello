@@ -1,7 +1,7 @@
 ### Hi I'm Felipe 👋
 - I'm living in Brazil.
 - 🔭 I’m currently learning programming.
-- 🌱 Studying: SQL, Kotlin, Java, Spring 💻. 
+- 🌱 Studying: Go Lang, SQL 💻. 
 - 📫 How to reach me: felipe.tomasello@gmail.com.
 
   
